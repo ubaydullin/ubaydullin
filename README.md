@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore an
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ubaydullin&show_icons=true&hide_border=true&theme=radical)
 
 ## 📫 How to reach me
-- Email: [projectbysu@gmail.com](mailto:projectbysu@gmail.com)
+- Email: [projectbysu@gmail.com](mailto:ubayakbar764@gmail.com)
 - LinkedIn: [Saidakbar Ubaydullin](https://www.linkedin.com/in/saidakbar-ubaydullin-429182252/)
 - Telegram: [@ubaydullin](https://t.me/ubaydullin)
 
